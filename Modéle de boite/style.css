@@ -5,3 +5,7 @@ ul {
     border: 2px solid #f08080;
     border-radius: 20px;
 }
+h1 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
